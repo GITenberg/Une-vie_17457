@@ -15,6 +15,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
     - http://en.wikipedia.org/wiki/Guy_de_Maupassant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17457#Une-vie
 gutenberg_bookshelf:
 - FR Littérature
 - Banned Books from Anne Haight's list
